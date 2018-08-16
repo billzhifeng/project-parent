@@ -4,7 +4,7 @@
 
 	<groupId>com.github.project</groupId>
 	<artifactId>project-parent</artifactId>
-	<version>1.0.2018061401</version>
+	<version>1.0.2018081601</version>
 	<packaging>pom</packaging>
 
 	<parent>
@@ -34,15 +34,11 @@
 				<artifactId>spring-boot-resource-utils-starter</artifactId>
 				<version>1.0.2018052401</version>
 			</dependency>
-			<!-- boot-starter-elastic-job
-				<version>1.0.2017090601</version> </dependency> -->
-			<!-- sequence 生成器<version>1.0.2018050301</version>  -->
-
 			<!--java common -->
 			<dependency>
 				<groupId>com.github.java.common.lang</groupId>
 				<artifactId>java-common-lang</artifactId>
-				<version>1.0.2018061401</version>
+				<version>1.0.201808091</version>
 			</dependency>
 			<!-- 三方 -->
 			<dependency>
