@@ -4,7 +4,7 @@
 
 	<groupId>com.github.project</groupId>
 	<artifactId>project-parent</artifactId>
-	<version>1.0.2018081601</version>
+	<version>1.0.2018112101</version>
 	<packaging>pom</packaging>
 
 	<parent>
@@ -38,7 +38,7 @@
 			<dependency>
 				<groupId>com.github.java.common.lang</groupId>
 				<artifactId>java-common-lang</artifactId>
-				<version>1.0.201808091</version>
+				<version>1.0.2018112101</version>
 			</dependency>
 			<!-- 三方 -->
 			<dependency>
