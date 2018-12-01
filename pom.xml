@@ -4,7 +4,7 @@
 
 	<groupId>com.github.project</groupId>
 	<artifactId>project-parent</artifactId>
-	<version>1.0.2018112101</version>
+	<version>1.0.2018120101</version>
 	<packaging>pom</packaging>
 
 	<parent>
